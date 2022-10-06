@@ -26,5 +26,6 @@ John Conway's game of Life variant with neat color themes and somewhat different
 		- Use your imagination! :)\
 
 C++ Builder 10.4 source code and project.
+P.S. Yes, I was too lazy to use separate .cpp/.h files and create their own classes for DrawWorld/NewGen functions, so they are just copypasted in their .h files respectively, included in Unit1.cpp, for convenience. Blame on me :).
 
 © Ponytale 2021
