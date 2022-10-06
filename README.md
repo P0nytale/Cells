@@ -26,3 +26,5 @@ John Conway's game of Life variant with neat color themes and somewhat different
 		- Use your imagination! :)\
 
 C++ Builder 10.4 source code and project.
+
+© Ponytale 2021
