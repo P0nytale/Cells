@@ -24,3 +24,5 @@ John Conway's game of Life variant with neat color themes and somewhat different
 		- Press n/N/p/P keys when putting a pattern at the game area to choose the Next/Previous build-in pattern.\n\
 		- Press c/C keys to Clear\n\
 		- Use your imagination! :)\
+
+C++ Builder 10.4 source code and project.
